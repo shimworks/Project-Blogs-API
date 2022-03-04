@@ -1,5 +1,5 @@
 # Bem Vindo ao Blogs API
-  Este é um projeto de estudo sobre ORM, e Migrations do banco de dados MySQL.
+ Este projeto foca principalmente no banco de dados MySQL utilizando ORM junto com a Arquitetura SOLID, além de trabalhar com algumas validações de dados.
 
 
 # Lista de Requisições
